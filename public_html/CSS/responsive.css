@@ -1,0 +1,51 @@
+@media(min-width: 576px){
+    /*SM Breakpoint*/
+    .gallery .gallery-img {
+    flex: 0 0 20%;
+    width: 20%;
+}
+
+    footer a,
+footer span{
+   
+    margin-inline: 5px;
+
+}
+
+    
+}
+
+
+@media(min-width: 768px){
+    /*MD Breakpoint*/
+    
+    footer a,
+footer span{
+    
+    margin-inline: 15px;
+
+}
+
+    
+}
+
+
+@media(min-width: 992px){
+    /*LG Breakpoint*/
+    
+    
+}
+
+@media(min-width: 1200px){
+    /*XL Breakpoint*/
+    
+    
+}
+
+
+
+@media(min-width: 1400px){
+    /*XXL Breakpoint*/
+    
+    
+}
